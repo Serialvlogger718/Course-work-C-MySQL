@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Курсовой2", "Курсовой2\Курсовой2.csproj", "{684F0CE4-6580-476F-85FE-257E121A59C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{67E930A8-22A5-4566-B7E2-5767FCAB962F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\iconfinder_avatar_1814089.png = ..\..\..\Downloads\iconfinder_avatar_1814089.png
+		..\..\..\Downloads\lock.png = ..\..\..\Downloads\lock.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{684F0CE4-6580-476F-85FE-257E121A59C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684F0CE4-6580-476F-85FE-257E121A59C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684F0CE4-6580-476F-85FE-257E121A59C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684F0CE4-6580-476F-85FE-257E121A59C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0AA8B13-C399-4064-A0C8-91AEF2DCAB5A}
+	EndGlobalSection
+EndGlobal
